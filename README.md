@@ -7,7 +7,7 @@ implemented binary, binary search, AVL, and Max Binary Heap trees.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files for all tasks. Provided by Holberton
+* [tests](./tests): Folder of test files for all tasks. Provided by 
 School.
 
 ## Helper File :raised_hands:
@@ -258,6 +258,4 @@ Function Prototypes
     * Searching for a node in a binary heap of size `n`.
 
 ## Authors :black_nib:
-
-* __Brennan Dov Baraban__ <[bdbaraban](https://github.com/bdbaraban)>
-* __Fernando González-Morales__ <[fgonza52](https://github.com/fgonza52)>
+Brian and Moses muchai
